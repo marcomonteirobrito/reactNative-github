@@ -1,6 +1,4 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-<img align="center" alt="Rocketseat" src="img/rocketseat.svg" />
-
 
 <h2 align="center"> Projeto mobile para listagem de usuários e seus repositórios favoritos com React Native <img src="img/react-native.png" alt="react-native" height="18"> <h2>
 
